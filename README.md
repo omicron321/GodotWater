@@ -3,7 +3,7 @@ This project has the aim to create 3D open water for the Godot game engine.
 
 Tested with: Godot_v3.0-stable_win64
 
-![water ingame](/uploads/a82860a3f763a9d1e50c375e99cab040/water.gif)
+![water ingame](water.gif)
 
 # Principle
 The plane on which water is simulated is generated during runtime.
